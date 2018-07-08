@@ -1,0 +1,31 @@
+body{
+  background:maroon;
+  color:white;
+}
+h3{
+  margin-top: 40px;
+}
+img{
+  width:70%;
+}
+ul li{
+  list-style-type: none;
+  margin-bottom:10px;
+}
+input{
+  padding:10px;
+}
+button{
+  background-color:white;
+  padding:10px;
+  color:maroon;
+  font-weight: bold;
+}
+.left{
+  float: left;
+  width:40%;
+}
+.right{
+  float:right;
+  width:50%;
+}
